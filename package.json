@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@web3uikit/core": "^1.0.0",
+    "@web3uikit/web3": "^0.3.2",
     "moralis": "^1.8.0",
     "next": "12.1.5",
     "react": "18.0.0",
